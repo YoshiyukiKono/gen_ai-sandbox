@@ -18,7 +18,7 @@
 ### Relationship with proprietary data
 ![Relationship with proprietary data](./img/relationship_with_proprietary_data.jpg)
 
-### Differences_from_traditional_applications
+### Differences from traditional applications
 ![Differences_from_traditional_applications](./img/differences_from_traditional_applications.jpg)
 
  - Inquiries expressed in natural language
