@@ -21,5 +21,5 @@
 ### Differences from traditional applications
 ![Differences_from_traditional_applications](./img/differences_from_traditional_applications.jpg)
 
- - Inquiries expressed in natural language
+ - Inquiries expressed in natural language such as "I want to learn about machine learning."
  - Recommendations based on seemantic similarity such as recommending books whose title is "data science" or "data scientist" based on the keyword “Machine Learning”
