@@ -11,4 +11,15 @@
 [Notbook to load data for this chatbot](../langchain_astradb_openai_cassio.ipynb)
 
 ## Screen Shot
-![ChatBot Screen](./chatbot_screen.jpg)
+![ChatBot Screen](./img/chatbot_screen.jpg)
+
+## Explanation of substantive (internal) differences
+
+### Relationship with proprietary data
+![Relationship with proprietary data](./img/relationship_with_proprietary_data.jpg)
+
+### Differences_from_traditional_applications
+![Differences_from_traditional_applications](./img/differences_from_traditional_applications.jpg)
+
+ - Inquiries expressed in natural language
+ - Recommendations based on seemantic similarity such as recommending books whose title is "data science" or "data scientist" based on the keyword “Machine Learning”
