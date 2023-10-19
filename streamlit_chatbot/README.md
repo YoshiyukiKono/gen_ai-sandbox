@@ -1,5 +1,7 @@
 # Bookstore Clerk Chatbot
 
+**NOTE: This web application is NOT designed for PRODUCTION use but demonstrating functions used there.**
+
 ## Technologies
 - AstraDB Vector Search
 - OpenAI
